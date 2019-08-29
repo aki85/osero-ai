@@ -1,3 +1,4 @@
+# coding: utf-8
 import gym
 import gym.spaces
 import numpy as np

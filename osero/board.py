@@ -1,3 +1,4 @@
+# coding: utf-8
 import copy
 class OseroBoard:
     VECS = [(0, 1), (1, 1), (1, 0), (1, -1), (0, -1), (-1, -1), (-1, 0), (-1, 1)]

@@ -1,3 +1,4 @@
+# coding: utf-8
 from .board import OseroBoard
 class OseroGame(OseroBoard):
     def __init__(self, board_size=8):

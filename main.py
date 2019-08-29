@@ -1,3 +1,4 @@
+# coding: utf-8
 from osero import Osero
 
 env = Osero(board_size=6)
